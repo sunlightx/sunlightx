@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sunlightx/sunlightx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```python
+class sunlightx:
+
+    def __init__(self):
+        self.telegram_username = "https://t.me/eternalbladez"
+        self.language = ["Javascript"]
+        self.learning = "Reverse Engineering"    
+    def __str__(self):
+        return self.username
+if __name__ == '__main__':
+    me = sunlightx()```
