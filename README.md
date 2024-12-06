@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ```python
-class sunlightx:
+class sunlight:
 
     def __init__(self):
         self.telegram_username = "https://t.me/eternalbladez"
@@ -23,4 +23,4 @@ class sunlightx:
     def __str__(self):
         return self.username
 if __name__ == '__main__':
-    me = sunlightx()
+    me = sunlight()
