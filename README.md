@@ -19,7 +19,7 @@ class sunlightx:
     def __init__(self):
         self.telegram_username = "https://t.me/eternalbladez"
         self.language = ["Javascript"]
-        self.learning = "Reverse Engineering"    
+        self.learning = ["Reverse Engineering", "Backend"]  
     def __str__(self):
         return self.username
 if __name__ == '__main__':
