@@ -18,7 +18,7 @@ class sunlight:
 
     def __init__(self):
         self.telegram_username = "https://t.me/eternalbladez"
-        self.language = ["Javascript"]
+        self.language = ["Javascript", "Go"]
         self.learning = ["Reverse Engineering", "Backend"]  
     def __str__(self):
         return self.username
